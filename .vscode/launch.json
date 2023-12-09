@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LigafutbolApplication<ligafutbol>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "hn.examenrepo.ligafutbol.LigafutbolApplication",
+            "projectName": "ligafutbol",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
